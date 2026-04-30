@@ -1,0 +1,21 @@
+{
+  "name": "business-frameworks",
+  "description": "73のビジネスフレームワークを対話的に活用するClaude Codeスキルセット",
+  "version": "1.0.0",
+  "owner": {
+    "name": "mtfum"
+  },
+  "plugins": [
+    {
+      "name": "business-frameworks",
+      "source": "./",
+      "description": "問題発見・市場分析・戦略立案・業務改善など9カテゴリ・73種のフレームワークを対話的に活用",
+      "version": "1.0.0",
+      "author": {
+        "name": "mtfum"
+      },
+      "repository": "https://github.com/mtfum/BuisnessFrameworks",
+      "license": "MIT"
+    }
+  ]
+}
