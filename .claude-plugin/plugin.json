@@ -1,0 +1,9 @@
+{
+  "name": "business-frameworks",
+  "description": "73のビジネスフレームワークを対話的に活用するClaude Codeスキルセット。問題発見・市場分析・戦略立案・業務改善など9カテゴリをカバー。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mtfum"
+  },
+  "license": "MIT"
+}
