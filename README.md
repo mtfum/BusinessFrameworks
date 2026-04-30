@@ -20,7 +20,7 @@
 ## インストール
 
 ```bash
-claude /plugin install github:mtfum/BuisnessFrameworks
+claude /plugin install github:mtfum/BusinessFrameworks
 ```
 
 ## 使い方
@@ -52,8 +52,8 @@ claude /plugin install github:mtfum/BuisnessFrameworks
 ### ローカルでテスト
 
 ```bash
-git clone https://github.com/mtfum/BuisnessFrameworks.git
-cd BuisnessFrameworks
+git clone https://github.com/mtfum/BusinessFrameworks.git
+cd BusinessFrameworks
 claude --plugin-dir .
 ```
 
