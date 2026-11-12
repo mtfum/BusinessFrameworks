@@ -16,6 +16,17 @@
       },
       "repository": "https://github.com/mtfum/BusinessFrameworks",
       "license": "MIT"
+    },
+    {
+      "name": "business-frameworks-en",
+      "source": "./en",
+      "description": "Work through 73 frameworks in 9 categories interactively (English): problem definition, market analysis, strategy, process improvement, and more",
+      "version": "1.0.0",
+      "author": {
+        "name": "mtfum"
+      },
+      "repository": "https://github.com/mtfum/BusinessFrameworks",
+      "license": "MIT"
     }
   ]
 }

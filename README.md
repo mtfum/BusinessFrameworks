@@ -1,5 +1,7 @@
 # Business Frameworks for Claude Code
 
+[English](en/README.md)
+
 ビジネスフレームワークを対話的に活用するための Claude Code プラグイン。  
 課題に応じた最適なフレームワークを提案し、対話形式でワークシートを完成させます。
 
