@@ -1,0 +1,9 @@
+{
+  "name": "business-frameworks-en",
+  "description": "Claude Code skill set for working through 73 business frameworks interactively (English). Covers 9 categories: problem definition, market analysis, strategy, process improvement, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mtfum"
+  },
+  "license": "MIT"
+}
